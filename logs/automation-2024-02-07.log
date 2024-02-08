@@ -1,0 +1,42 @@
+14:46:51.585 [main] INFO  TestCases.TC_002_ClickDropdown - Clicked on the servicelines dropdown and get options from it
+14:46:51.709 [main] INFO  TestCases.TC_002_ClickDropdown - Clicked on the salesresources dropdown and get options from it
+14:46:51.820 [main] INFO  TestCases.TC_002_ClickDropdown - Clicked on the market and services dropdown and get options from it
+14:46:51.931 [main] INFO  TestCases.TC_002_ClickDropdown - Clicked on the corporate function dropdown and get options from it
+14:46:52.086 [main] INFO  TestCases.TC_002_ClickDropdown - Clicked on the people dropdown and get options from it
+14:46:52.165 [main] INFO  TestCases.TC_002_ClickDropdown - Clicked on the otheroption dropdown and get options from it
+14:46:52.165 [main] INFO  TestCases.TC_002_ClickDropdown - *********End of TC_001_ClickDropdown
+14:46:53.244 [main] INFO  TestCases.TC_002_ClickDropdown - browser closed successfully....
+15:13:38.705 [TestNG-tests-1] INFO  TestCases.TC_001_UserVerification - chrome browser opened successfully
+15:13:39.292 [TestNG-tests-2] INFO  TestCases.TC_001_UserVerification - edge browser opened successfully
+15:13:40.590 [TestNG-tests-1] INFO  TestCases.TC_001_UserVerification - Base Page loaded sucessfully.......
+15:13:47.434 [TestNG-tests-1] INFO  TestCases.TC_001_UserVerification - *****************Start the TC_002_UserVerification****************
+15:13:47.435 [TestNG-tests-1] INFO  TestCases.TC_001_UserVerification - click on userdetail button..........
+15:14:08.584 [TestNG-tests-1] INFO  TestCases.TC_001_UserVerification - browser closed successfully....
+15:14:11.194 [TestNG-tests-1] INFO  TestCases.TC_002_ClickDropdown - chrome browser opened successfully
+15:14:20.730 [TestNG-tests-1] INFO  TestCases.TC_002_ClickDropdown - Base Page loaded sucessfully.......
+15:14:22.513 [TestNG-tests-2] INFO  TestCases.TC_001_UserVerification - Base Page loaded sucessfully.......
+15:14:29.667 [TestNG-tests-2] INFO  TestCases.TC_001_UserVerification - *****************Start the TC_002_UserVerification****************
+15:14:29.667 [TestNG-tests-2] INFO  TestCases.TC_001_UserVerification - click on userdetail button..........
+15:14:30.533 [TestNG-tests-2] INFO  TestCases.TC_001_UserVerification - get the user name ..........
+15:14:30.576 [TestNG-tests-2] INFO  TestCases.TC_001_UserVerification - get the user Email ..........
+15:14:30.576 [TestNG-tests-2] INFO  TestCases.TC_001_UserVerification - *****************End the TC_002_UserVerification****************
+15:14:31.818 [TestNG-tests-2] INFO  TestCases.TC_001_UserVerification - browser closed successfully....
+15:14:35.476 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - edge browser opened successfully
+15:14:37.209 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - Base Page loaded sucessfully.......
+15:14:39.891 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - *********** Starting the TC_001_ClickDropdown***********
+15:14:39.891 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - Clicked on the company dropdown and get options from it
+15:14:40.569 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - Clicked on the servicelines dropdown and get options from it
+15:14:40.966 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - Clicked on the salesresources dropdown and get options from it
+15:14:41.240 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - Clicked on the market and services dropdown and get options from it
+15:14:41.481 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - Clicked on the corporate function dropdown and get options from it
+15:14:41.848 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - Clicked on the people dropdown and get options from it
+15:14:41.943 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - Clicked on the otheroption dropdown and get options from it
+15:14:41.943 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - *********End of TC_001_ClickDropdown
+15:14:43.043 [TestNG-tests-2] INFO  TestCases.TC_002_ClickDropdown - browser closed successfully....
+15:14:52.545 [TestNG-tests-1] INFO  TestCases.TC_002_ClickDropdown - *********** Starting the TC_001_ClickDropdown***********
+15:14:52.545 [TestNG-tests-1] INFO  TestCases.TC_002_ClickDropdown - Clicked on the company dropdown and get options from it
+15:14:52.816 [TestNG-tests-1] INFO  TestCases.TC_002_ClickDropdown - Clicked on the servicelines dropdown and get options from it
+15:14:52.976 [TestNG-tests-1] INFO  TestCases.TC_002_ClickDropdown - Clicked on the salesresources dropdown and get options from it
+15:14:53.114 [TestNG-tests-1] INFO  TestCases.TC_002_ClickDropdown - Clicked on the market and services dropdown and get options from it
+15:14:53.269 [TestNG-tests-1] INFO  TestCases.TC_002_ClickDropdown - Clicked on the corporate function dropdown and get options from it
+15:14:53.477 [TestNG-tests-1] INFO  TestCases.TC_002_ClickDropdown - Clicked on the people dropdown and get options from it
